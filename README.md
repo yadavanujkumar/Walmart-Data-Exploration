@@ -14,7 +14,6 @@ A deep dive into Walmart sales data using Exploratory Data Analysis (EDA), tradi
 - [Business Recommendations](#-business-recommendations)
 - [Technical Stack](#-technical-stack)
 - [Usage](#-usage)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
