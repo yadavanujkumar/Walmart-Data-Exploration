@@ -1,18 +1,6 @@
 # Walmart Sales Data - Comprehensive Analysis
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-complete-success.svg)
-![ML Models](https://img.shields.io/badge/ML%20models-8-orange.svg)
-![Accuracy](https://img.shields.io/badge/R²%20score-0.96-brightgreen.svg)
-
 A deep dive into Walmart sales data using Exploratory Data Analysis (EDA), traditional Machine Learning, and Deep Learning techniques to extract meaningful insights and build accurate predictive models.
-
-> 🎯 **Quick Start**: New to this project? Check out [QUICKSTART.md](QUICKSTART.md) for a 5-minute setup guide!
-
----
-
----
 
 ## 📋 Table of Contents
 
@@ -243,50 +231,13 @@ See `requirements.txt` for complete list. Key dependencies:
 - matplotlib >= 3.7.0
 - seaborn >= 0.12.0
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
-
 ## 📚 Additional Documentation
 
 - **[QUICKSTART.md](QUICKSTART.md)** - Get started in 5 minutes
 - **[INSIGHTS.md](INSIGHTS.md)** - Detailed analysis findings and insights (13KB)
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical architecture and design (17KB)
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contribution guidelines (7KB)
 - **[SUMMARY.md](SUMMARY.md)** - Project summary and highlights (5KB)
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**dude**
-
-## 🙏 Acknowledgments
-
-- Walmart for the dataset
-- Open source community for amazing tools and libraries
-- Data science community for best practices and methodologies
-
-## 📧 Contact
-
-For questions or feedback, please open an issue in the GitHub repository.
-
-## ⭐ Show Your Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub!
-
----
-
-<div align="center">
-
-**📊 Happy Analyzing! 🎯**
-
-Made with ❤️ for the Data Science Community
-
-</div>
-
----
-
-**Note**: This is a comprehensive data science project demonstrating end-to-end analysis from EDA to deep learning. The models and insights can be adapted for similar retail sales forecasting problems.
