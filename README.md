@@ -1,6 +1,35 @@
 # Walmart Sales Data - Comprehensive Analysis
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-complete-success.svg)
+![ML Models](https://img.shields.io/badge/ML%20models-8-orange.svg)
+![Accuracy](https://img.shields.io/badge/R²%20score-0.96-brightgreen.svg)
+
 A deep dive into Walmart sales data using Exploratory Data Analysis (EDA), traditional Machine Learning, and Deep Learning techniques to extract meaningful insights and build accurate predictive models.
+
+> 🎯 **Quick Start**: New to this project? Check out [QUICKSTART.md](QUICKSTART.md) for a 5-minute setup guide!
+
+---
+
+---
+
+## 📋 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Key Insights](#-key-insights)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Analysis Components](#-analysis-components)
+- [Key Features](#-key-features)
+- [Results Summary](#-results-summary)
+- [Business Recommendations](#-business-recommendations)
+- [Technical Stack](#-technical-stack)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
 
 ## 📊 Project Overview
 
@@ -216,7 +245,15 @@ See `requirements.txt` for complete list. Key dependencies:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
+## 📚 Additional Documentation
+
+- **[QUICKSTART.md](QUICKSTART.md)** - Get started in 5 minutes
+- **[INSIGHTS.md](INSIGHTS.md)** - Detailed analysis findings and insights (13KB)
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical architecture and design (17KB)
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contribution guidelines (7KB)
+- **[SUMMARY.md](SUMMARY.md)** - Project summary and highlights (5KB)
 
 ## 📄 License
 
@@ -235,6 +272,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or feedback, please open an issue in the GitHub repository.
+
+## ⭐ Show Your Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub!
+
+---
+
+<div align="center">
+
+**📊 Happy Analyzing! 🎯**
+
+Made with ❤️ for the Data Science Community
+
+</div>
 
 ---
 
